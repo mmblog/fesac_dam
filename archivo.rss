@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>CF</title>
+    <link>http://www.mmblog.es</link>
+    <description>Ciclos formativos de informática</description>
+    <language>es</language>
+    <copyright>CC BY-NC-SA</copyright>
+    <image>
+      <title>CF</title>
+      <link>http://www.mmblog.es</link>
+      <url>http://mmblog.es/wp-content/uploads/2016/04/el-blog-de...-sonar.png</url>
+    </image>
+    <item>
+      <title>dam</title>
+      <pubDate>Fri, 5 May 2017 20:57:26 +0200</pubDate>
+      <link>http://mmblog.es/dam/</link>
+      <guid isPermaLink="true">http://mmblog.es/dam/</guid>
+      <category>Educación/informática/ciclos formativos</category>
+      <description><![CDATA[La Formación Profesional consiste en el desarrollo y satisfacción personal del alumnado y como último fin, en la obtención de unos conocimientos de tipo técnicos y humanísticos que han de ser preparatorios para el mundo laboral o la Universidad.]]></description>
+    </item>
+  </channel>
+</rss>
